@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Ice Cream",
-      "image": "",
+      "image": "https://media.istockphoto.com/photos/front-view-of-real-edible-ice-cream-cone-with-3-different-scoops-of-picture-id1148364081?k=6&m=1148364081&s=612x612&w=0&h=IKINTaNTbayJ4hOATlh_vRP2TpSFerEO0ww3BLbYaao=",
       "cost": 3,
       "calories": 250,
       "flavors": [
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "name": "Brownie",
-      "image": "",
+      "image": "https://houseofnasheats.com/wp-content/uploads/2020/06/best-homemade-brownie-recipe-13.jpg",
       "cost": 2,
       "calories": 200,
       "flavors": [
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "name": "Cookie",
-      "image": "",
+      "image": "https://handletheheat.com/wp-content/uploads/2018/02/BAKERY-STYLE-CHOCOLATE-CHIP-COOKIES-9.jpg",
       "cost": 1,
       "calories": 150,
       "flavors": [
@@ -42,7 +42,7 @@
     {
       "id": 4,
       "name": "Pie",
-      "image": "",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/6/15/0/JI_20731_s4x3.jpg.rend.hgtvcom.616.462.suffix/1589464308348.jpeg",
       "cost": 5,
       "calories": 300,
       "flavors": [
@@ -55,7 +55,7 @@
     {
       "id": 5,
       "name": "Cake",
-      "image": "",
+      "image": "https://www.cookingclassy.com/wp-content/uploads/2019/07/birthday-cake-4.jpg",
       "cost": 4,
       "calories": 400,
       "flavors": [
