@@ -69,21 +69,9 @@
   "recommendations": [
     {
       "id": 10,
-      "name": "",
+      "name": "Test Recommendation Dessert",
       "flavor": "",
       "comments": ""
-    },
-    {
-      "id": 11,
-      "name": "",
-      "flavor": "",
-      "comments": ""
-    },
-    {
-      "name": "lollipop",
-      "flavor": "Vanilla",
-      "comments": "rainbow",
-      "id": 12
     }
   ]
 }
