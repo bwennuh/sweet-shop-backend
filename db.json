@@ -24,7 +24,7 @@
         "vanilla",
         "strawberry"
       ],
-      "likes": 0
+      "likes": 3
     },
     {
       "id": 3,
@@ -63,7 +63,7 @@
         "vanilla",
         "strawberry"
       ],
-      "likes": 0
+      "likes": 5
     }
   ],
   "recommendations": [
@@ -71,7 +71,8 @@
       "id": 10,
       "name": "Test Recommendation Dessert",
       "flavor": "",
-      "comments": ""
+      "comments": "",
+      "likes": 0
     }
   ]
 }
