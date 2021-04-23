@@ -7,9 +7,9 @@
       "cost": 3,
       "calories": 250,
       "flavors": [
-        "chocolate",
-        "vanilla",
-        "strawberry"
+        "Chocolate",
+        "Vanilla",
+        "Strawberry"
       ],
       "likes": 15
     },
@@ -20,11 +20,11 @@
       "cost": 2,
       "calories": 200,
       "flavors": [
-        "chocolate",
-        "vanilla",
-        "strawberry"
+        "Chocolate",
+        "Vanilla",
+        "Strawberry"
       ],
-      "likes": 3
+      "likes": 6
     },
     {
       "id": 3,
@@ -33,11 +33,11 @@
       "cost": 1,
       "calories": 150,
       "flavors": [
-        "chocolate",
-        "vanilla",
-        "strawberry"
+        "Chocolate",
+        "Vanilla",
+        "Strawberry"
       ],
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 4,
@@ -46,9 +46,9 @@
       "cost": 5,
       "calories": 300,
       "flavors": [
-        "chocolate",
-        "vanilla",
-        "strawberry"
+        "Chocolate",
+        "Vanilla",
+        "Strawberry"
       ],
       "likes": 0
     },
@@ -59,9 +59,9 @@
       "cost": 4,
       "calories": 400,
       "flavors": [
-        "chocolate",
-        "vanilla",
-        "strawberry"
+        "Chocolate",
+        "Vanilla",
+        "Strawberry"
       ],
       "likes": 5
     }
@@ -69,10 +69,10 @@
   "recommendations": [
     {
       "id": 10,
-      "name": "Test Recommendation Dessert",
-      "flavor": "",
-      "comments": "",
-      "likes": 0
+      "name": "Cheesecake",
+      "flavor": "Strawberry",
+      "comments": "With whipped cream!",
+      "likes": 2
     }
   ]
 }
