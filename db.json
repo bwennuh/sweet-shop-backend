@@ -11,7 +11,7 @@
         "Vanilla",
         "Strawberry"
       ],
-      "likes": 9
+      "likes": 10
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
         "Vanilla",
         "Strawberry"
       ],
-      "likes": 5
+      "likes": 8
     },
     {
       "id": 3,
@@ -50,7 +50,7 @@
         "Vanilla",
         "Strawberry"
       ],
-      "likes": 4
+      "likes": 5
     },
     {
       "id": 5,
@@ -63,7 +63,33 @@
         "Vanilla",
         "Strawberry"
       ],
+      "likes": 2
+    },
+    {
+      "id": 6,
+      "name": "Donut",
+      "image": "https://i2.wp.com/www.eatthis.com/wp-content/uploads/2019/12/how-to-make-donuts-20.jpg?fit=1200%2C879&ssl=1",
+      "cost": 2,
+      "calories": 350,
+      "flavors": [
+        "Chocolate",
+        "Vanilla",
+        "Strawberry"
+      ],
       "likes": 5
+    },
+    {
+      "id": 7,
+      "name": "Mousse",
+      "image": "https://www.thespruceeats.com/thmb/dfn60cZCR6rJRbWXn1MKSQp922I=/2441x1831/smart/filters:no_upscale()/chocolate-mousse-recipe-1375149-hero-01-d3bae0e0fca6401983596d717cf4e309.jpg",
+      "cost": 5,
+      "calories": 275,
+      "flavors": [
+        "Chocolate",
+        "Vanilla",
+        "Strawberry"
+      ],
+      "likes": 4
     }
   ],
   "recommendations": [
