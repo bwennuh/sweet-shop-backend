@@ -15,7 +15,8 @@ The user will be able to click the dessert options button in order to see our cu
 
 Each dessert contains the following data:
 
-`"desserts": [
+```
+"desserts": [
     {
       "id": #,
       "name": "dessert name",
@@ -28,7 +29,9 @@ Each dessert contains the following data:
         "flavor3"
       ],
       "likes": #
-    }`
+    }
+  ]
+```
 
 The user will be able to click the dessert options button in order to see our current list of desserts. These are the desserts that are currently in line to be added to the store, but we want to make sure we're including the ones people like the most!
 
@@ -44,7 +47,8 @@ If there's a dessert option that you absolutely don't think should be in there, 
 
 Obviously, there's no way that our current dessert list includes everyone's favorite dessert, so we want to make sure we know what those other favorites might be! At the bottom of the app page, the user will be able to submit their own dessert recommendations to be added to the Sweet Shop, and we will get that posted data in our "recommendations" in the JSON file. We just need to know the type of dessert, the desired flavor, and then we also welcome any additional feedback comments too, which will then all be included in the JSON file (as well as any 'likes' that the recommendation has received):
 
- `"recommendations": [
+```
+ "recommendations": [
     {
       "id": #,
       "name": "dessert name",
@@ -52,4 +56,5 @@ Obviously, there's no way that our current dessert list includes everyone's favo
       "comments": "user comments",
       "likes": #
     }
-  ]`
+  ]
+```
